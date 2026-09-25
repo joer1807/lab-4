@@ -1,0 +1,16 @@
+//min lösning till uppgift 1 johanna Lilja 
+
+"use strict";
+//namnet 
+let myName ="Johanna" 
+console.log(myName); 
+
+let afterName ="Lilja"  //efternamnet
+console.log(afterName);
+
+let age ="40"  //min ålder 
+console.log(age)
+
+if student= "false"{
+
+}
