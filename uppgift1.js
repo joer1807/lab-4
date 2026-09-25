@@ -11,6 +11,8 @@ console.log(afterName);
 let age ="40"  //min ålder 
 console.log(age)
 
-if student= "false"{
-
+let student = false;
+if (student === false) {
+    console.log("Du är inte student")
 }
+
