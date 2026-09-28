@@ -1,4 +1,4 @@
-//min lösning till uppgift 1 johanna Lilja. 
+// lösning till uppgift 1 johanna Lilja. 
 
 "use strict";
 //namnet 

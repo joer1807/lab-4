@@ -1,3 +1,5 @@
+// lösning till uppgift 2 johanna Lilja. 
+
 "use strict";
 //jag ska räkna priset på 100kr för antalet 3 sen moms
 

@@ -1,3 +1,7 @@
+//johanna lilja lösning uppgift.
+
+"use strict";
+
 const people = [   
     {
         name: "Polly",

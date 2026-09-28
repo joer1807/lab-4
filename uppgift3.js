@@ -1,3 +1,5 @@
+// lösning till uppgift 3 johanna Lilja. 
+
 "use strict";
 
 // variabel testas olika ålder

@@ -1,4 +1,6 @@
-"use strict"  //johanna lilja uppgift4. 
+//johanna lilja lösning uppgift4.
+
+"use strict"   
 
 for (let i = 1; i <= 20; i++) {
                       // om talet delat på 2 är 0. 

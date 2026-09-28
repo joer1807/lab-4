@@ -1,4 +1,6 @@
-"use strict";   // johanna Lilja uppgift 5 arrayer. 
+//johanna lilja lösning uppgift4.
+
+"use strict";    
 
 let food = [" potatismos" , "linssoppa" , "biffar" , "korvstroganoff" , "paj" ]
 food.shift("rödbetor");
