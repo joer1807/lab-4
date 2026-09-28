@@ -16,4 +16,7 @@ const people 0 [   //värde som inte går att ändra
         eyecolor: "blue"
         born: "irland"
     }, 
-];
+];                             // nu ska jag skapa loopen 
+for (let i = 0; i <people.length; i++) {
+    
+}
