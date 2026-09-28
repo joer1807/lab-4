@@ -1,7 +1,7 @@
 "use strict";
 
 // variabel testas olika ålder
-let age = 25;
+let age = 10;
 
 if (age < 18) {     //mellanslag
     console.log("barn");
