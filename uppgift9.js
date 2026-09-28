@@ -3,19 +3,23 @@
 const people = [   //värde som inte går att ändra
     {
         name: "Polly",
-        eyecolor: "brown",
+        age : 27,
         born: "skåne"
     }, 
     {
         name: "Hannes",
-        eyecolor: "green",
+        age: 17,
         born: "Poland"
     }, 
     {
         name: "Louis",
-        eyecolor: "blue",
+        age: 22,
         born: "irland"
     }, 
+
+    if people <18 
+    console 
+
 ];                             // nu ska jag skapa loopen 
 for (let i = 0; i <people.length; i++) {
     let person = people[i];
