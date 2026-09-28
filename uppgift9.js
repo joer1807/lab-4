@@ -1,10 +1,8 @@
-"use strict" 
-
-const people = [   //värde som inte går att ändra
+const people = [   
     {
         name: "Polly",
-        age : 27,
-        born: "skåne"
+        age: 27,
+        born: "Skåne"
     }, 
     {
         name: "Hannes",
@@ -14,16 +12,16 @@ const people = [   //värde som inte går att ändra
     {
         name: "Louis",
         age: 22,
-        born: "irland"
-    }, 
+        born: "Irland"
+    } 
+];                             
 
-    
-
-];                             // nu ska jag skapa loopen 
-for (let i = 0; i <people.length; i++) {
-    let person = people[i];
-  console.log(`${person.name} är född i ${person.born}.`);
-}
-if (age < 18) {     //mellanslag
-    console.log("barn");
+// Här startar loopen som går igenom alla tre personer
+for (let i = 0; i < people.length; i++) {
+    let person = people[i]; 
+    if (person.age < 18) {     
+        console.log(`${person.name} är ett barn (född i ${person.born})`);
+    } else {
+        console.log(`${person.name} är vuxen (född i ${person.born})`);
     }
+}
