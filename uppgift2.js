@@ -2,7 +2,6 @@
 //jag ska räkna priset på 100kr för antalet 3 sen moms
 
 
-
 let priset = 100;
 console.log("Priset: 100kr");
 
