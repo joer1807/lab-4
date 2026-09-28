@@ -2,7 +2,7 @@
 
 "use strict";
 
-let numbers = [1, 2, 3, 4, 5, 6, ] 
+let numbers = [1, 2, 3, 4, 5, 6,]; 
 function calculateSum (arr) {  //arrayens summa
 }
 let summa = 0;  //starten i arrayen är 1, men noll. 
