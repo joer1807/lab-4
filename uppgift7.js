@@ -10,6 +10,8 @@ let summa = 0;  //starten i arrayen är 1, men noll.
 for (let i = 0; i <arr.legth; i++) {
     summa = summa arr[1]; {
     
-    }
+   
     return summa;   // retur på function
-}
+ }
+    let totalt = calculateSum(numbers);
+console.log("Summan av mina tal är :" + totalt);
