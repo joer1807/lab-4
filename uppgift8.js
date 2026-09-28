@@ -7,8 +7,10 @@ year: 2022
 
 }; 
 
-Function myBook (bokensinfo) {
+function printBookInfo (bokensinfo) {
     console.log("titel" + bokensinfo.titel);
     console.log("author: " + bokensinfo.author);
     console.log("year: " + bokensinfo.year);
 }
+
+printBookInfo(book);
