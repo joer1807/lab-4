@@ -13,6 +13,9 @@ console.log(food);
 //skriver ut första maträtten i arrayen.
 console.log(food[0]);
 
+//skriver ut sista maträtten i arrayen.
+console.log(food[4]);
+
 
 
 
