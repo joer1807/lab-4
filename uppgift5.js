@@ -7,10 +7,10 @@
 
 //skapar en array med fem maträtter.
 let food = [" potatismos" , "linssoppa" , "biffar" , "korvstroganoff" , "paj" ]
-
-
-
-
-food.shift("rödbetor");
+//skriver ut hela arrayen.
 console.log(food);
+
+
+
+
 
