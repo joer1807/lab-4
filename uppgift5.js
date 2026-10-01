@@ -16,6 +16,10 @@ console.log(food[0]);
 //skriver ut sista maträtten i arrayen.
 console.log(food[4]);
 
+//lägger till en ny maträtt i arrayen.
+food.push("pasta");
+console.log(food);
+
 
 
 
