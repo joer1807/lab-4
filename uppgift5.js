@@ -20,6 +20,10 @@ console.log(food[4]);
 food.push("pasta");
 console.log(food);
 
+//tar bort den första maträtten i arrayen.
+food.shift();
+console.log(food);
+
 
 
 
