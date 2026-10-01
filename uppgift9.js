@@ -10,7 +10,7 @@ const people = [
     }, 
     {
         name: "Hannes",
-        age: 17,
+        age: 79,
         born: "Poland"
     }, 
     {
