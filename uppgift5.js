@@ -10,6 +10,9 @@ let food = [" potatismos" , "linssoppa" , "biffar" , "korvstroganoff" , "paj" ]
 //skriver ut hela arrayen.
 console.log(food);
 
+//skriver ut första maträtten i arrayen.
+console.log(food[0]);
+
 
 
 
