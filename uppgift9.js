@@ -22,9 +22,9 @@ const people = [
 // gör en function som ska kika ålder på personerna i arrayen och skriva ut om de är barn eller vuxna.
 function checkAge(person) {
     if (person.age >= 18) {
-        console.log(person.name + " är vuxen (född i " + person.born + ")");
+        console.log(person.name + " är myndig (född i " + person.born + ")");
     } else {
-        console.log(person.name + " är ett barn (född i " + person.born + ")");
+        console.log(person.name + " är inte myndig (född i " + person.born + ")");
     }
 }
 // Här startar loopen som går igenom alla tre personer
