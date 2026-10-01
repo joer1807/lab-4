@@ -24,6 +24,9 @@ console.log(food);
 food.shift();
 console.log(food);
 
+//skriver ut arrayen igen efter förändringarna.
+console.log("Arrayen efter förändringarna:", food);
+
 
 
 
