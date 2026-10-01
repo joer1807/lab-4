@@ -4,7 +4,7 @@
 
 const people = [   
     {
-        name: "Polly",
+        name: "Polly",      //här är objecten 
         age: 10,
         born: "Skåne"
     }, 
